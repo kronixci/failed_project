@@ -1,2 +1,2 @@
-run: rspec
+run: rake test
 project: git@github.com:kronixci/failed_project.git

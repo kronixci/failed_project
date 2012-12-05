@@ -1,0 +1,2 @@
+run: rspec
+project: git@github.com:kronixci/failed_project.git
